@@ -5,7 +5,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Happiibook Intervew</h1>
+      <h1>Simple Calender App</h1>
       <h2>Calender Day Picker</h2>
       <PickDay />
     </div>
